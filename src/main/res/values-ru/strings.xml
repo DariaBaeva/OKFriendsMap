@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Найди друга</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="menu_name">Имя</string>
+    <string name="menu_map">Карта</string>
+    <string name="menu_friends">Друзья</string>
+    <string name="menu_settings">Мое местоположение</string>
+    <string name="menu_about">О программе</string>
+    <string name="sharing_until">Делиться моим местоположением до</string>
+    <string name="not_sharing">Не делиться моим местоположением</string>
+    <string name="share_location">Поделиться моим местоположением</string>
+    <string name="edit_time">Изменить время</string>
+    <string name="half_an_hour">30 минут</string>
+    <string name="one_hour">1 час</string>
+    <string name="two_hours">2 часа</string>
+    <string name="five_hours">5 часов</string>
+    <string name="select_time">Выбрать время...</string>
+    <string name="incorrect_time">Некорректное время</string>
+    <string name="cancel">Отменить</string>
+    <string name="dialog_positive_button">Установить</string>
+    <string name="dialog_negative_button">Отмена</string>
+    <string name="date_picker_title">Настройка даты</string>
+    <string name="time_picker_title">Настройка времени</string>
+    <string name="friends_online">Онлайн</string>
+    <string name="friends_offline">Оффлайн</string>
+    <string name="version">Версия</string>
+    <string name="developers">Написать разработчикам:</string>
+    <string name="mailto_baeva"><a href="mailto:d.arinicheva@gmail.com">Дарья Баева</a></string>
+    <string name="mailto_pryalkova"><a href="mailto:juliapryalkova@gmail.com">Юлия Прялкова</a></string>
+</resources>
